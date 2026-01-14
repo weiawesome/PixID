@@ -33,7 +33,6 @@ export default function LanguageSwitch() {
 
   useEffect(() => {
     // 确保初始语言正确设置为 zh_tw
-    const lang = getInitialLang();
     if (!i18n.language || !['zh_cn', 'zh_tw', 'en', 'ja', 'ko'].includes(i18n.language)) {
       i18n.changeLanguage('zh_tw');
       setCurrentLang('zh_tw');
