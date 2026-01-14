@@ -1,0 +1,138 @@
+{
+  "app": {
+    "title": "PixID - スマート画像クロッピングツール",
+    "description": "ソーシャルメディアアバターと証明写真の高速クロッピング"
+  },
+  "intro": {
+    "title": "画像をアップロードしてクロップ",
+    "description": "画像をアップロードし、サイズを選択してクロップ",
+    "feature1": {
+      "title": "クイックアップロード",
+      "description": "ドラッグ&ドロップまたはクリック"
+    },
+    "feature2": {
+      "title": "スマートクロッピング",
+      "description": "複数のプリセットサイズ"
+    },
+    "feature3": {
+      "title": "ワンクリックエクスポート",
+      "description": "高品質画像を素早くエクスポート"
+    },
+    "preset_hint": "下のボタンでプリセットサイズを選択"
+  },
+  "upload": {
+    "title": "画像をアップロード",
+    "drag_drop": "ここに画像をドラッグ&ドロップ、またはクリックして選択",
+    "supported_formats": "JPEG、PNG、WebP、HEIC形式に対応",
+    "max_size": "最大ファイルサイズ：10MB",
+    "button": "画像を選択",
+    "uploading": "アップロード中...",
+    "error": {
+      "file_too_large": "ファイルが大きすぎます。10MB以下の画像を選択してください",
+      "invalid_format": "サポートされていないファイル形式です",
+      "upload_failed": "アップロードに失敗しました。もう一度お試しください"
+    }
+  },
+  "crop": {
+    "title": "画像をクロップ",
+    "zoom": "ズーム",
+    "rotation": "回転",
+    "reset": "リセット",
+    "export": "エクスポート",
+    "cancel": "キャンセル",
+    "rotate_left": "左に90°回転",
+    "rotate_right": "右に90°回転"
+  },
+  "presets": {
+    "title": "プリセットサイズ",
+    "social_media": "ソーシャルメディアアバター",
+    "id_photos": "証明写真",
+    "custom": "カスタム",
+    "expand": "すべて展開",
+    "collapse": "折りたたむ",
+    "social": {
+      "wechat": "WeChatアバター",
+      "wechat_desc": "500×500ピクセル",
+      "weibo": "Weiboアバター",
+      "weibo_desc": "400×400ピクセル",
+      "twitter": "Twitter/X",
+      "twitter_desc": "400×400ピクセル",
+      "facebook": "Facebook",
+      "facebook_desc": "720×720ピクセル",
+      "instagram": "Instagram",
+      "instagram_desc": "320×320ピクセル",
+      "linkedin": "LinkedIn",
+      "linkedin_desc": "400×400ピクセル",
+      "youtube": "YouTube",
+      "youtube_desc": "800×800ピクセル",
+      "tiktok": "TikTok",
+      "tiktok_desc": "200×200ピクセル",
+      "discord": "Discord",
+      "discord_desc": "128×128ピクセル"
+    },
+    "id": {
+      "china_1inch": "中国1インチ",
+      "china_1inch_desc": "25×35mm (295×413px @ 300 DPI)",
+      "china_2inch": "中国2インチ",
+      "china_2inch_desc": "35×53mm (413×626px @ 300 DPI)",
+      "china_small_1inch": "中国小1インチ",
+      "china_small_1inch_desc": "22×32mm (260×378px @ 300 DPI)",
+      "passport_usa": "米国パスポート写真",
+      "passport_usa_desc": "2×2インチ (600×600px @ 300 DPI)",
+      "passport_international": "国際パスポート",
+      "passport_international_desc": "35×45mm (354×472px @ 300 DPI)",
+      "visa_usa": "米国ビザ写真",
+      "visa_usa_desc": "2×2インチ (600×600px @ 300 DPI)",
+      "drivers_license": "運転免許証",
+      "drivers_license_desc": "35×45mm (354×472px @ 300 DPI)",
+      "id_card_china": "中国身分証",
+      "id_card_china_desc": "26×32mm (358×441px @ 350 DPI)",
+      "resume_photo": "履歴書写真",
+      "resume_photo_desc": "35×45mm (413×531px @ 300 DPI)"
+    }
+  },
+  "background": {
+    "title": "背景の置き換え",
+    "remove": "背景を削除",
+    "replace": "背景を置き換え",
+    "processing": "処理中...",
+    "colors": {
+      "white": "白",
+      "blue": "青",
+      "red": "赤",
+      "light_blue": "ライトブルー",
+      "gray": "グレー"
+    }
+  },
+  "export": {
+    "title": "エクスポート設定",
+    "format": "形式",
+    "quality": "品質",
+    "high": "高",
+    "medium": "中",
+    "low": "低",
+    "select_sizes": "サイズを選択",
+    "download": "ダウンロード",
+    "download_all": "すべてダウンロード",
+    "success": "エクスポートに成功しました",
+    "error": "エクスポートに失敗しました",
+    "exporting": "エクスポート中..."
+  },
+  "language": {
+    "zh-cn": "简体中文",
+    "zh-tw": "繁體中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어"
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラー",
+    "success": "成功",
+    "confirm": "確認",
+    "cancel": "キャンセル",
+    "delete": "削除",
+    "edit": "編集",
+    "save": "保存"
+  }
+}
