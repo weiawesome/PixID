@@ -10,7 +10,7 @@ import { getCroppedImg, downloadImage } from '../../utils/imageProcessing';
 export default function ImageCropper() {
   const { t } = useTranslation();
   const { images, currentImageId } = useImageContext();
-  const { crop, zoom, aspect, rotation, setCrop, setZoom, setRotation, setCroppedAreaPixels, resetCrop } = useCropContext();
+  const { crop, zoom, aspect, rotation, setCrop, setZoom, setRotation, setCroppedAreaPixels } = useCropContext();
 
   const [isExporting, setIsExporting] = useState(false);
   const [croppedArea, setCroppedArea] = useState<Area | null>(null);
