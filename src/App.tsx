@@ -1,4 +1,3 @@
-import { useTranslation } from 'react-i18next';
 import { Sparkles } from 'lucide-react';
 import ImageUploader from './components/ImageUploader/ImageUploader';
 import ImageCropper from './components/ImageCropper/ImageCropper';
@@ -9,7 +8,6 @@ import Footer from './components/Footer/Footer';
 import { useImageContext } from './contexts/ImageContext';
 
 function App() {
-  const { t } = useTranslation();
   const { currentImageId, clearAll } = useImageContext();
 
   const handleLogoClick = () => {
