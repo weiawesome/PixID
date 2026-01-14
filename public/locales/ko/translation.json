@@ -1,0 +1,138 @@
+{
+  "app": {
+    "title": "PixID - 스마트 이미지 크롭 도구",
+    "description": "소셜 미디어 아바타 및 증명사진 빠른 크롭"
+  },
+  "intro": {
+    "title": "이미지를 빠르게 업로드하고 크롭",
+    "description": "이미지 업로드, 크기 선택, 쉽게 크롭",
+    "feature1": {
+      "title": "빠른 업로드",
+      "description": "드래그 앤 드롭 또는 클릭"
+    },
+    "feature2": {
+      "title": "스마트 크롭",
+      "description": "다양한 프리셋 크기"
+    },
+    "feature3": {
+      "title": "원클릭 내보내기",
+      "description": "고품질 이미지 빠른 내보내기"
+    },
+    "preset_hint": "아래 버튼으로 프리셋 크기 선택"
+  },
+  "upload": {
+    "title": "이미지 업로드",
+    "drag_drop": "여기에 이미지를 드래그하거나 클릭하여 선택하세요",
+    "supported_formats": "JPEG, PNG, WebP, HEIC 형식 지원",
+    "max_size": "최대 파일 크기: 10MB",
+    "button": "이미지 선택",
+    "uploading": "업로드 중...",
+    "error": {
+      "file_too_large": "파일이 너무 큽니다. 10MB 이하의 이미지를 선택하세요",
+      "invalid_format": "지원하지 않는 파일 형식입니다",
+      "upload_failed": "업로드 실패. 다시 시도하세요"
+    }
+  },
+  "crop": {
+    "title": "이미지 크롭",
+    "zoom": "확대/축소",
+    "rotation": "회전",
+    "reset": "재설정",
+    "export": "내보내기",
+    "cancel": "취소",
+    "rotate_left": "왼쪽으로 90° 회전",
+    "rotate_right": "오른쪽으로 90° 회전"
+  },
+  "presets": {
+    "title": "프리셋 크기",
+    "social_media": "소셜 미디어 아바타",
+    "id_photos": "증명사진",
+    "custom": "사용자 지정",
+    "expand": "모두 펼치기",
+    "collapse": "접기",
+    "social": {
+      "wechat": "WeChat 아바타",
+      "wechat_desc": "500×500 픽셀",
+      "weibo": "Weibo 아바타",
+      "weibo_desc": "400×400 픽셀",
+      "twitter": "Twitter/X",
+      "twitter_desc": "400×400 픽셀",
+      "facebook": "Facebook",
+      "facebook_desc": "720×720 픽셀",
+      "instagram": "Instagram",
+      "instagram_desc": "320×320 픽셀",
+      "linkedin": "LinkedIn",
+      "linkedin_desc": "400×400 픽셀",
+      "youtube": "YouTube",
+      "youtube_desc": "800×800 픽셀",
+      "tiktok": "TikTok",
+      "tiktok_desc": "200×200 픽셀",
+      "discord": "Discord",
+      "discord_desc": "128×128 픽셀"
+    },
+    "id": {
+      "china_1inch": "중국 1인치",
+      "china_1inch_desc": "25×35mm (295×413px @ 300 DPI)",
+      "china_2inch": "중국 2인치",
+      "china_2inch_desc": "35×53mm (413×626px @ 300 DPI)",
+      "china_small_1inch": "중국 소형 1인치",
+      "china_small_1inch_desc": "22×32mm (260×378px @ 300 DPI)",
+      "passport_usa": "미국 여권 사진",
+      "passport_usa_desc": "2×2 인치 (600×600px @ 300 DPI)",
+      "passport_international": "국제 여권",
+      "passport_international_desc": "35×45mm (354×472px @ 300 DPI)",
+      "visa_usa": "미국 비자 사진",
+      "visa_usa_desc": "2×2 인치 (600×600px @ 300 DPI)",
+      "drivers_license": "운전면허증",
+      "drivers_license_desc": "35×45mm (354×472px @ 300 DPI)",
+      "id_card_china": "중국 신분증",
+      "id_card_china_desc": "26×32mm (358×441px @ 350 DPI)",
+      "resume_photo": "이력서 사진",
+      "resume_photo_desc": "35×45mm (413×531px @ 300 DPI)"
+    }
+  },
+  "background": {
+    "title": "배경 교체",
+    "remove": "배경 제거",
+    "replace": "배경 교체",
+    "processing": "처리 중...",
+    "colors": {
+      "white": "흰색",
+      "blue": "파란색",
+      "red": "빨간색",
+      "light_blue": "하늘색",
+      "gray": "회색"
+    }
+  },
+  "export": {
+    "title": "내보내기 설정",
+    "format": "형식",
+    "quality": "품질",
+    "high": "높음",
+    "medium": "중간",
+    "low": "낮음",
+    "select_sizes": "크기 선택",
+    "download": "다운로드",
+    "download_all": "모두 다운로드",
+    "success": "내보내기 성공",
+    "error": "내보내기 실패",
+    "exporting": "내보내는 중..."
+  },
+  "language": {
+    "zh-cn": "简体中文",
+    "zh-tw": "繁體中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어"
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류",
+    "success": "성공",
+    "confirm": "확인",
+    "cancel": "취소",
+    "delete": "삭제",
+    "edit": "편집",
+    "save": "저장"
+  }
+}

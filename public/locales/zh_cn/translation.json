@@ -1,0 +1,134 @@
+{
+  "app": {
+    "title": "PixID - 智能图片裁剪工具",
+    "description": "快速裁剪社交媒体头像和证件照"
+  },
+  "intro": {
+    "title": "快速上传图片并进行裁剪",
+    "description": "上传图片，选择尺寸，轻松完成裁剪",
+    "feature1": {
+      "title": "快速上传",
+      "description": "支持拖放或点击上传"
+    },
+    "feature2": {
+      "title": "智能裁剪",
+      "description": "多种预设尺寸可选"
+    },
+    "feature3": {
+      "title": "一键导出",
+      "description": "快速导出高品质图片"
+    },
+    "preset_hint": "下方按钮可选择预设尺寸"
+  },
+  "upload": {
+    "title": "上传图片",
+    "drag_drop": "拖放图片到这里，或点击选择",
+    "supported_formats": "支持 JPEG, PNG, WebP, HEIC 格式",
+    "max_size": "最大文件大小：10MB",
+    "button": "选择图片",
+    "uploading": "上传中...",
+    "error": {
+      "file_too_large": "文件过大，请选择小于 10MB 的图片",
+      "invalid_format": "不支持的文件格式",
+      "upload_failed": "上传失败，请重试"
+    }
+  },
+  "crop": {
+    "title": "裁剪图片",
+    "zoom": "缩放",
+    "rotation": "旋转",
+    "reset": "重置",
+    "export": "导出",
+    "cancel": "取消",
+    "rotate_left": "左转 90°",
+    "rotate_right": "右转 90°"
+  },
+  "presets": {
+    "title": "预设尺寸",
+    "social_media": "社交媒体头像",
+    "id_photos": "证件照",
+    "custom": "自定义",
+    "expand": "展开全部",
+    "collapse": "收起",
+    "social": {
+      "twitter": "Twitter/X",
+      "twitter_desc": "400×400 像素",
+      "facebook": "Facebook",
+      "facebook_desc": "720×720 像素",
+      "instagram": "Instagram",
+      "instagram_desc": "320×320 像素",
+      "linkedin": "LinkedIn",
+      "linkedin_desc": "400×400 像素",
+      "youtube": "YouTube",
+      "youtube_desc": "800×800 像素",
+      "tiktok": "TikTok",
+      "tiktok_desc": "200×200 像素",
+      "discord": "Discord",
+      "discord_desc": "128×128 像素"
+    },
+    "id": {
+      "china_1inch": "一寸照片",
+      "china_1inch_desc": "25×35mm (295×413px @ 300 DPI)",
+      "china_2inch": "二寸照片",
+      "china_2inch_desc": "35×53mm (413×626px @ 300 DPI)",
+      "china_small_1inch": "小一寸照片",
+      "china_small_1inch_desc": "22×32mm (260×378px @ 300 DPI)",
+      "passport_usa": "美国护照照片",
+      "passport_usa_desc": "2×2 英寸 (600×600px @ 300 DPI)",
+      "passport_international": "国际护照照片",
+      "passport_international_desc": "35×45mm (354×472px @ 300 DPI)",
+      "visa_usa": "美国签证照片",
+      "visa_usa_desc": "2×2 英寸 (600×600px @ 300 DPI)",
+      "drivers_license": "驾驶证照片",
+      "drivers_license_desc": "35×45mm (354×472px @ 300 DPI)",
+      "id_card_china": "中国身份证照片",
+      "id_card_china_desc": "26×32mm (358×441px @ 350 DPI)",
+      "resume_photo": "简历照片",
+      "resume_photo_desc": "35×45mm (413×531px @ 300 DPI)"
+    }
+  },
+  "background": {
+    "title": "背景替换",
+    "remove": "移除背景",
+    "replace": "替换背景",
+    "processing": "处理中...",
+    "colors": {
+      "white": "白色",
+      "blue": "蓝色",
+      "red": "红色",
+      "light_blue": "浅蓝色",
+      "gray": "灰色"
+    }
+  },
+  "export": {
+    "title": "导出设置",
+    "format": "格式",
+    "quality": "质量",
+    "high": "高",
+    "medium": "中",
+    "low": "低",
+    "select_sizes": "选择尺寸",
+    "download": "下载",
+    "download_all": "下载全部",
+    "success": "导出成功",
+    "error": "导出失败",
+    "exporting": "导出中..."
+  },
+  "language": {
+    "zh-tw": "繁體中文",
+    "zh-cn": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "confirm": "确认",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "save": "保存"
+  }
+}

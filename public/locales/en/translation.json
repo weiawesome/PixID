@@ -1,0 +1,138 @@
+{
+  "app": {
+    "title": "PixID - Smart Image Cropping Tool",
+    "description": "Quick cropping for social media avatars and ID photos"
+  },
+  "intro": {
+    "title": "Upload and Crop Images Quickly",
+    "description": "Upload image, select size, crop with ease",
+    "feature1": {
+      "title": "Quick Upload",
+      "description": "Drag & drop or click to upload"
+    },
+    "feature2": {
+      "title": "Smart Cropping",
+      "description": "Multiple preset sizes available"
+    },
+    "feature3": {
+      "title": "One-Click Export",
+      "description": "Export high quality images quickly"
+    },
+    "preset_hint": "Use buttons below to select preset sizes"
+  },
+  "upload": {
+    "title": "Upload Image",
+    "drag_drop": "Drag and drop images here, or click to select",
+    "supported_formats": "Supports JPEG, PNG, WebP, HEIC formats",
+    "max_size": "Max file size: 10MB",
+    "button": "Select Images",
+    "uploading": "Uploading...",
+    "error": {
+      "file_too_large": "File too large, please select an image under 10MB",
+      "invalid_format": "Unsupported file format",
+      "upload_failed": "Upload failed, please try again"
+    }
+  },
+  "crop": {
+    "title": "Crop Image",
+    "zoom": "Zoom",
+    "rotation": "Rotation",
+    "reset": "Reset",
+    "export": "Export",
+    "cancel": "Cancel",
+    "rotate_left": "Rotate Left 90°",
+    "rotate_right": "Rotate Right 90°"
+  },
+  "presets": {
+    "title": "Preset Sizes",
+    "social_media": "Social Media Avatars",
+    "id_photos": "ID Photos",
+    "custom": "Custom",
+    "expand": "Expand All",
+    "collapse": "Collapse",
+    "social": {
+      "wechat": "WeChat Avatar",
+      "wechat_desc": "500×500 pixels",
+      "weibo": "Weibo Avatar",
+      "weibo_desc": "400×400 pixels",
+      "twitter": "Twitter/X",
+      "twitter_desc": "400×400 pixels",
+      "facebook": "Facebook",
+      "facebook_desc": "720×720 pixels",
+      "instagram": "Instagram",
+      "instagram_desc": "320×320 pixels",
+      "linkedin": "LinkedIn",
+      "linkedin_desc": "400×400 pixels",
+      "youtube": "YouTube",
+      "youtube_desc": "800×800 pixels",
+      "tiktok": "TikTok",
+      "tiktok_desc": "200×200 pixels",
+      "discord": "Discord",
+      "discord_desc": "128×128 pixels"
+    },
+    "id": {
+      "china_1inch": "China 1-inch",
+      "china_1inch_desc": "25×35mm (295×413px @ 300 DPI)",
+      "china_2inch": "China 2-inch",
+      "china_2inch_desc": "35×53mm (413×626px @ 300 DPI)",
+      "china_small_1inch": "China Small 1-inch",
+      "china_small_1inch_desc": "22×32mm (260×378px @ 300 DPI)",
+      "passport_usa": "US Passport Photo",
+      "passport_usa_desc": "2×2 inches (600×600px @ 300 DPI)",
+      "passport_international": "International Passport",
+      "passport_international_desc": "35×45mm (354×472px @ 300 DPI)",
+      "visa_usa": "US Visa Photo",
+      "visa_usa_desc": "2×2 inches (600×600px @ 300 DPI)",
+      "drivers_license": "Driver's License",
+      "drivers_license_desc": "35×45mm (354×472px @ 300 DPI)",
+      "id_card_china": "China ID Card",
+      "id_card_china_desc": "26×32mm (358×441px @ 350 DPI)",
+      "resume_photo": "Resume Photo",
+      "resume_photo_desc": "35×45mm (413×531px @ 300 DPI)"
+    }
+  },
+  "background": {
+    "title": "Background Replacement",
+    "remove": "Remove Background",
+    "replace": "Replace Background",
+    "processing": "Processing...",
+    "colors": {
+      "white": "White",
+      "blue": "Blue",
+      "red": "Red",
+      "light_blue": "Light Blue",
+      "gray": "Gray"
+    }
+  },
+  "export": {
+    "title": "Export Settings",
+    "format": "Format",
+    "quality": "Quality",
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low",
+    "select_sizes": "Select Sizes",
+    "download": "Download",
+    "download_all": "Download All",
+    "success": "Export successful",
+    "error": "Export failed",
+    "exporting": "Exporting..."
+  },
+  "language": {
+    "zh-cn": "简体中文",
+    "zh-tw": "繁體中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save"
+  }
+}
