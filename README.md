@@ -131,11 +131,6 @@ npm run preview
 - Reset to default settings
 - Real-time preview
 
-### Export Options
-- High-quality image export
-- Multiple format support (JPEG, PNG, WebP)
-- Custom quality settings
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
@@ -147,7 +142,3 @@ Created by [tcweeei](https://github.com/tcweeei)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/weiawesome/PixID/issues).
-
-## 📝 License
-
-MIT © [tcweeei](https://github.com/tcweeei)
