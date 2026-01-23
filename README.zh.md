@@ -131,11 +131,6 @@ npm run preview
 - 重置為預設設定
 - 即時預覽
 
-### 導出選項
-- 高品質圖片導出
-- 多種格式支援（JPEG、PNG、WebP）
-- 自訂品質設定
-
 ## 📄 授權
 
 本專案為開源專案，採用 [MIT License](LICENSE) 授權。
@@ -147,7 +142,3 @@ npm run preview
 ## 🤝 貢獻
 
 歡迎提交問題、功能請求或貢獻代碼！歡迎查看 [問題頁面](https://github.com/weiawesome/PixID/issues)。
-
-## 📝 授權
-
-MIT © [tcweeei](https://github.com/tcweeei)
